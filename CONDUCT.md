@@ -69,65 +69,39 @@ reporter of any incident.
 
 ## Decisions
 
+Decisions will be made by a majority vote through a poll
+
 ## Attendance
+
+Attendance is mandatory but effective communication with the group as to why a member can not make a meeting will be accepted. Missing memebers will need to check in with group at next meeting date.
 
 ## Assignments
 
+Assignments will be made by a group decision. If a member does not complete assignment or completes poorly, a warning is issued and after administraion will be notified. 
+
 ## Participation
+
+Communication and Information will be shared via in-person and over discord. 
 
 ## Meeting Times
 
+Meeting times will be selected class time and one night during the week. 
+
 ## Agenda and Minutes
+
+Brandon Charette will take notes on meetings through short bullet points and placed in discord.
 
 ## Promptness
 
+Members will be on time for meetings unless communicated with other group memebers.
+
 ## Conversational Courtesies
+
+Each member will have a short time to talk about what they have been working on, then group discussion on what is next. 
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
-
-### 1. Correction
-
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series of
-actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+The team will enforce it's own rules by anonymous tips to administation on said group memebers actions. Feedback will be given and recieved in a professional manner, or else administration will get involved. 
 
 ## Attribution
 
