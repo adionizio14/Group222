@@ -99,10 +99,6 @@ Members will be on time for meetings unless communicated with other group memebe
 
 Each member will have a short time to talk about what they have been working on, then group discussion on what is next. 
 
-## Enforcement Guidelines
-
-The team will enforce it's own rules by anonymous tips to administation on said group memebers actions. Feedback will be given and recieved in a professional manner, or else administration will get involved. 
-
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
