@@ -3,7 +3,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We as developers of Group 222 pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
@@ -51,11 +51,7 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This Code of Conduct applies within all group spaces. Including the group discord and meeting times in class
 
 ## Enforcement
 
@@ -64,40 +60,38 @@ reported to the community leaders responsible for enforcement at
 [305Soft Group].
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
 
 ## Decisions
 
-Decisions will be made by a majority vote through a poll
+Decisions will be made by a majority vote through a poll. There are 5 memebers in our group meaning a vote of 3 is majority. 
 
 ## Attendance
 
-Attendance is mandatory but effective communication with the group as to why a member can not make a meeting will be accepted. Missing memebers will need to check in with group at next meeting date.
+Attendance is mandatory but effective communication with the group as to why a member can not make a meeting will be accepted. Missing memebers will need to check in with group at next meeting date and/or read the meeting notes.
 
 ## Assignments
 
-Assignments will be made by a group decision. If a member does not complete assignment or completes poorly, a warning is issued and after administraion will be notified. 
+Assignments will be made by a group decision. If a member does not complete assignment or completes poorly, a warning is issued and after 305Soft will be notified. 
 
 ## Participation
 
-Communication and Information will be shared via in-person and over discord. 
+Communication and Information will be shared via in-person and over discord. Participation will be ensured by each group memeber getting a set time to talk about anything related to what they are working on in each meeting. The group will encourage everyone to talk and share opinions on every task/issue.
 
 ## Meeting Times
 
-Meeting times will be selected class time and one night during the week. 
+Meeting times will be selected class time and one night during the week that the group memebers will agree on. 
 
 ## Agenda and Minutes
 
-Brandon Charette will take notes on meetings through short bullet points and placed in discord.
+Brandon Charette will take notes on meetings through short bullet points and place in discord.
 
 ## Promptness
 
-Members will be on time for meetings unless communicated with other group memebers.
+Members will be on time for meetings unless effectivley communicated with other group memebers. If a member is late, they will have to read the meeting notes after the meeting is over. 
 
 ## Conversational Courtesies
 
-Each member will have a short time to talk about what they have been working on, then group discussion on what is next. 
+Each member will have a short time to talk about what they have been working on, then group discussion on what is next. If there is a disagreement in the group, each group memeber must remain professional and the disagreement will be handled by group vote. If the disagreement is escalted any further, 305Soft group will be notified. 
 
 ## Attribution
 
