@@ -93,6 +93,12 @@ Members will be on time for meetings unless effectivley communicated with other 
 
 Each member will have a short time to talk about what they have been working on, then group discussion on what is next. If there is a disagreement in the group, each group memeber must remain professional and the disagreement will be handled by group vote. If the disagreement is escalted any further, 305Soft group will be notified. 
 
+## Signitures
+
+The following group members have read and agreed to follow all rules of this document.
+
+![Andrew Dionizio](src/dionizio_signiture.png)
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
