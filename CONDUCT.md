@@ -98,6 +98,7 @@ Each member will have a short time to talk about what they have been working on,
 The following group members have read and agreed to follow all rules of this document.
 
 ![Andrew Dionizio](src/dionizio_signiture.png)
+![Jason_Wu](src/jason_signiture.png)
 
 ## Attribution
 
