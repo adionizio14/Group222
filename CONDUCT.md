@@ -101,6 +101,7 @@ The following group members have read and agreed to follow all rules of this doc
 ![Jason_Wu](src/jason_signature.png)
 ![Joseph Yanez](src/joseph_sig.png)
 ![Michael Gilkeson](src/MichaelGilkesonsignature.png)
+![Brandon Charette](src/Brandon_signature.png)
 
 ## Attribution
 
