@@ -17,7 +17,7 @@
 ## Observation 4
 * Observation Statement: When asked how people manage their money for now, 1/5 of the survey answered that they do not use anything or simply "nothing".
 * Supporting Data: 10/53 people answered that nothing was used for financial planning.
-* Team Action: 
+* Team Action: Having a general UI friendly experience. 
 
 ## Observation 5
 * Observation Statement: People who are more likely to use the app tend to be in college.
