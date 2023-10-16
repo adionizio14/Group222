@@ -14,3 +14,7 @@
 * Supporting Data: Out of 53 people who took this survey 42 of them are 18-25. The average score of how likely they would use the app (from 1-5, 5 being very likely) is 3.31 and 21/42 gave a rating of 4 or above.
 * Team Action: 
 
+## Observation 4
+* Observation Statement: When asked how people manage their money for now, 1/5 of the survey answered that they do not use anything or simply "nothing".
+* Supporting Data: 10/53 people answered that nothing was used for financial planning.
+* Team Action: 
