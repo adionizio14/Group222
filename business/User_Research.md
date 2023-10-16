@@ -1,6 +1,6 @@
 ## Observation 1
 * Observation: Most of the students who are in college are either unemployed or have a part time job, and at least half of them also have credit card payments to worry about.
-* Supporting Data: 35/53 were students and 14/35 had credit card listed as a payment  
+* Supporting Data: 34/53 were students and 14/34 had credit card listed as a payment  
 * Team Action: 
 
 ## Observation 2
