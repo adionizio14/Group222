@@ -1,1 +1,1 @@
-![lean canvas](src/Lean Canvas Template.png)
+![lean canvas](src/Lean_Canvas.png)
