@@ -99,6 +99,7 @@ The following group members have read and agreed to follow all rules of this doc
 
 ![Andrew Dionizio](src/dionizio_signiture.png)
 ![Jason_Wu](src/jason_signature.png)
+![Joseph Yanez](src/joseph_sig.png)
 
 ## Attribution
 
