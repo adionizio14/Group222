@@ -1,1 +1,2 @@
-![lean canvas](src/Lean_Canvas.png)
+
+![](src/Lean_Canvas.png)
