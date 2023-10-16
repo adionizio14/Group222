@@ -6,7 +6,7 @@
 ## Observation 2
 * Observation: One of the questions asked in the survey was to ask users ways to come up with ways in which they can improve upon managing their money. From the over 50 responses we received there were common answers or similar answers that appeared. Some of these are making more money, having a saving goal and spending less overall or spending less on non-needs purchases.  
 * Supporting Data: Spending appeared 18/53 times and Making or Earning appeared 10/53 times listed. 
-* Team Action:
+* Team Action: Adding a short or long term saving goal in the program. 
 
 ## Observation 3
 * Observation Statement: A majority of people who took the survey are between the ages of
