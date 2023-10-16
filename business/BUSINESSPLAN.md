@@ -1,1 +1,1 @@
-[embed]!(src/Lean Canvas Template.pdf)[/embed]
+[embed](src/Lean Canvas Template.pdf)[/embed]
