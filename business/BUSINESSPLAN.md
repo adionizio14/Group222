@@ -1,1 +1,1 @@
-[embed](src/Lean Canvas Template.pdf)[/embed]
+![lean canvas](src/Lean Canvas Template.png)
