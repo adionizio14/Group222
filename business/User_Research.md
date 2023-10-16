@@ -18,3 +18,8 @@
 * Observation Statement: When asked how people manage their money for now, 1/5 of the survey answered that they do not use anything or simply "nothing".
 * Supporting Data: 10/53 people answered that nothing was used for financial planning.
 * Team Action: 
+
+## Observation 5
+* Observation Statement: People who are more likely to use the app tend to be in college.
+* Supporting Data: Of the 8 people who responded with a 5 in interest to using an app to help with personal finance, only one of them does not go to college. Of the 16 people that put 4 for their interest in using an app to help with personal finance only 6 of them were not in college. Of the 18 people that were not in college, 11 of them put a 3 or less for their interest in using an app for their finances, with 4 of those votes being 1.
+* Team Action: 
