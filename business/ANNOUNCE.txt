@@ -1,1 +1,1 @@
-A
+Our finance friend app we are designing is an independent tool to help people with managing their money, struggling or not.
