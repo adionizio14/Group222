@@ -1,6 +1,6 @@
 
 USER STORY: As a general user of the Finance Friend app, I can use the Finance Friend app 
-to create an account to give me the ability to use the Finance Friend App. 
+to create an account that gives me the ability to use the Finance Friend App. 
 
 ACCEPTANCE CRITERIA: 
 * Create the UI for the sign up screen
