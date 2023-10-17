@@ -15,3 +15,10 @@ ACCEPTANCE CRITERIA:
 * User has their financial situation up to date in their account
 * User requests to see how much money they should be saving
 * The amount of money the user should be saving is displayed
+
+USER STORY: As a Finance Friend User I can visit a website to see the app and also be able to log in. 
+
+ACCEPTANCE CRITERIA:
+* A html/CSS/javaScirpt site that incluldes the app
+* Users can be able to log in and view their profile
+* Users can also see an explanation about the product and its benefits
