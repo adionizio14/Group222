@@ -35,7 +35,7 @@ USER STORY: As a general user I can input my finances for the month.
 
 ACCEPTANCE CRITERIA:
 * User can input multiple credit cards
-* User can input weekly/biweekly/monthly expenses
+* User can input weekly/biweekly/monthly cashflow
 * User can set and see goals for the weeks or month
 
   
