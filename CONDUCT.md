@@ -67,7 +67,7 @@ Decisions will be made by a majority vote through a poll. There are 5 memebers i
 
 ## Attendance
 
-Attendance is mandatory but effective communication with the group as to why a member can not make a meeting will be accepted. Missing memebers will need to check in with group at next meeting date and/or read the meeting notes.
+Attendance is mandatory but effective communication with the group as to why a member can not make a meeting will be accepted. Missing members will need to check in with group at next meeting date and/or read the meeting notes.
 
 ## Assignments
 
@@ -93,7 +93,7 @@ Members will be on time for meetings unless effectivley communicated with other 
 
 Each member will have a short time to talk about what they have been working on, then group discussion on what is next. If there is a disagreement in the group, each group memeber must remain professional and the disagreement will be handled by group vote. If the disagreement is escalted any further, 305Soft group will be notified. 
 
-## Signitures
+## Signatures
 
 The following group members have read and agreed to follow all rules of this document.
 
