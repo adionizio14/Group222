@@ -27,6 +27,6 @@ USER STORY: As a general user of the Finance Friend app, I will be able to view 
 popular finance tips in order to save money
 
 ACCEPTANCE CRITERIA
-* Create UI/UX for seperate screen
+* Create UI/UX for seperate tip screen
 * Connect Web API for tips
 * Show user spending trends
