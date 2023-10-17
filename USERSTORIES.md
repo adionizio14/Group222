@@ -22,3 +22,11 @@ ACCEPTANCE CRITERIA:
 * A html/CSS/javaScirpt site that incluldes the app
 * Users can be able to log in and view their profile
 * Users can also see an explanation about the product and its benefits
+
+USER STORY: As a general user of the Finance Friend app, I will be able to view a screen that provides 
+popular finance tips in order to save money
+
+ACCEPTANCE CRITERIA
+* Create UI/UX for seperate screen
+* Connect Web API for tips
+* Show user spending trends
