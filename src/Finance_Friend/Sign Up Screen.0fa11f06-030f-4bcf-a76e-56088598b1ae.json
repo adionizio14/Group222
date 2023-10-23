@@ -117,7 +117,7 @@
             "children": [],
             "id": "338eaf1b-89bd-493e-9359-a69ecf1737a2",
             "thunkableVersion": 425,
-            "name": "Label11"
+            "name": "error_label_sign_up"
         },
         {
             "type": "TextInput",
@@ -176,7 +176,8 @@
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
                 "edgeOffsets": 355,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "ef18ed46-2824-441f-8860-a77fcdd9cf72",
@@ -240,7 +241,8 @@
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
                 "edgeOffsets": 288,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "5973fe1c-bdc6-4be7-924b-7412f3042840",

@@ -19,6 +19,36 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "b86bd834-3186-4489-a06a-11f047cb79ab": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "0fa11f06-030f-4bcf-a76e-56088598b1ae": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "965a4286-a5c8-491c-93a8-e65b35e1a680": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -47,7 +77,7 @@
             "projectName": "Finance Friend",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Finance Friend",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -56,8 +86,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
+                "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -91,7 +121,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Finance Friend",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -100,8 +130,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
+                "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -142,7 +172,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "3",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
