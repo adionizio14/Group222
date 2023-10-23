@@ -188,8 +188,8 @@
             "translatedName": "Text Input",
             "properties": {
                 "Hint": "Type here",
-                "Height": 33,
-                "Width": 239,
+                "Height": 35,
+                "Width": 241,
                 "Visible": true,
                 "X": 109,
                 "Y": 213,
@@ -240,7 +240,8 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 213,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": false
             },
             "children": [],
             "id": "118f6916-51e6-4054-a5e8-83546dfd3298",
