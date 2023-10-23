@@ -38,20 +38,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -76,7 +67,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -117,7 +107,7 @@
             "children": [],
             "id": "338eaf1b-89bd-493e-9359-a69ecf1737a2",
             "thunkableVersion": 425,
-            "name": "error_label_sign_up"
+            "name": "Label11"
         },
         {
             "type": "TextInput",
@@ -136,7 +126,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -176,8 +165,7 @@
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
                 "edgeOffsets": 355,
-                "placeholder": "Type here",
-                "secureTextEntry": true
+                "placeholder": "Type here"
             },
             "children": [],
             "id": "ef18ed46-2824-441f-8860-a77fcdd9cf72",
@@ -201,7 +189,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -241,8 +228,7 @@
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
                 "edgeOffsets": 288,
-                "placeholder": "Type here",
-                "secureTextEntry": true
+                "placeholder": "Type here"
             },
             "children": [],
             "id": "5973fe1c-bdc6-4be7-924b-7412f3042840",
@@ -266,7 +252,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -388,7 +373,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -453,7 +437,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -518,7 +501,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -583,7 +565,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
