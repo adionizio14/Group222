@@ -7,7 +7,24 @@
                     "children": []
                 }
             },
-            "assets": {},
+            "assets": {
+                "65373e49504d54747deaeabe": {
+                    "externalStorageType": "GCS",
+                    "_id": "65373e49504d54747deaeabe",
+                    "size": "25563",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "finance-friend-logo.png",
+                    "backendURI": "/project/653099e58e76b1c0e067cfd8/getasset/65373e49504d54747deaeabe",
+                    "name": "finance-friend-logo.png",
+                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe",
+                    "createdAt": "2023-10-24T03:47:21.682Z",
+                    "updatedAt": "2023-10-24T03:47:21.682Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231024%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231024T034721Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=65c9ce786db899c0c0909373d8fc37ca0abe795daad4f97b04ef89bdaaed72c84bf65d01e959990a3ad8c109d9abf2a5f1433f52481ca7cfc1c6fbc3f73fc95a146a293e1b69ba4fe497bda4e43722b0aea87253802a881d48572f2e88736407e3c2001fa4e7c915c7f09f2f9bf987b3475ecb1fd5035c8bf4c20728947ce129fbff22e5d1d9ed6da9fec5cb7443381f0bc08c3443f9bcf629e5a55190ce5b5c5c533be67bb632197b957a697ecd9a88d0f4dedc754c2d0ec4fe55f75da4644fad1eb791dbf9290f57917f94369b697253978fe4093510594512db252da82426111a23c844a0b85615d71ef40b0602ad5929ba651bafd31e8d189d6e33e07835",
+                    "signedUrlExpirationTime": 1698292041715
+                }
+            },
             "backendUpgradeVersion": 22,
             "blockly": {
                 "73768632-fbd4-4dfb-8b60-9fc738989579": {
