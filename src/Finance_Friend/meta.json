@@ -74,7 +74,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Finance Friend",
+            "projectName": "Finance Friend Main",
             "settings": {
                 "teamId": null,
                 "appName": "Finance Friend",
@@ -172,7 +172,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "3",
+            "totalCopy": "4",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -180,6 +180,26 @@
                     "scope": "CLOUD",
                     "name": "name",
                     "screenId": "0fa11f06-030f-4bcf-a76e-56088598b1ae"
+                },
+                "ef787b77-0b72-4c48-8d46-5c87c61a0d80": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "02e2f537-0201-4ed9-9dd4-e4bc0defb278": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "07d68fae-2a5e-4da6-b4ac-8a34a3add96d": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "2a96bdd5-7dcf-4fe3-bcfa-5787645b96eb": {
+                    "scope": "APP",
+                    "name": "user ID",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
                 }
             },
             "defaultDesignerDevice": "PHONE",
