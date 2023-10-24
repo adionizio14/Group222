@@ -36,15 +36,24 @@
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(126, 226, 18, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
         },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {},
         "BackgroundColor": "rgba(126, 226, 18, 1)"
     },
     "children": [
@@ -54,13 +63,13 @@
             "properties": {
                 "Picture": "finance-friend-logo.png",
                 "resizeMode": "stretch",
-                "Height": 81,
-                "Width": 319,
+                "Height": 77,
+                "Width": 348,
                 "Visible": true,
-                "X": 33,
-                "Y": 35,
-                "RelativeX": 33,
-                "RelativeY": 35,
+                "X": 15,
+                "Y": 39,
+                "RelativeX": 15,
+                "RelativeY": 39,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -80,17 +89,19 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "19.6%",
-                    "top": "10.794602698650674%",
+                    "left": "28.133329264322917%",
+                    "top": "16.50841754415761%",
                     "display": "flex"
                 },
-                "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
+                "capInsets": {},
+                "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 35
+                "edgeOffsets": 75
             },
             "children": [],
-            "id": "6bcd22a1-0b19-4a2d-988a-ebbf694471e9",
+            "id": "da9d3bd2-5168-4d50-a83b-63a38e6e16b0",
             "thunkableVersion": 425,
+            "bindings": null,
             "name": "Image3"
         },
         {
@@ -98,13 +109,13 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "error label",
+                "Text": "",
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
-                "Height": 45,
-                "Width": 311,
+                "Height": 47,
+                "Width": 313,
                 "Visible": true,
                 "X": 22,
                 "Y": 592,
@@ -115,6 +126,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -150,7 +162,7 @@
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
                 "edgeOffsets": 592,
-                "children": "error label"
+                "children": ""
             },
             "children": [],
             "id": "338eaf1b-89bd-493e-9359-a69ecf1737a2",
@@ -174,6 +186,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -238,6 +251,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -302,6 +316,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -394,7 +409,8 @@
                 "Disabled": false,
                 "ParentId": "0fa11f06-030f-4bcf-a76e-56088598b1ae",
                 "position": "absolute",
-                "edgeOffsets": 427
+                "edgeOffsets": 427,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "1d1210c7-0b1f-41d4-bddc-16cd369c4b1e",
@@ -423,6 +439,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -487,6 +504,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -551,6 +569,7 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",

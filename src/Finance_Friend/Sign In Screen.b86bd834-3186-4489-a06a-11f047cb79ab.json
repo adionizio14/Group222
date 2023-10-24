@@ -54,12 +54,12 @@
             "properties": {
                 "Picture": "finance-friend-logo.png",
                 "resizeMode": "stretch",
-                "Height": 78,
-                "Width": 331,
+                "Height": 77,
+                "Width": 348,
                 "Visible": true,
-                "X": 22,
+                "X": 15,
                 "Y": 39,
-                "RelativeX": 22,
+                "RelativeX": 15,
                 "RelativeY": 39,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -80,17 +80,19 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "32.13333333333333%",
-                    "top": "6.896551724137931%",
+                    "left": "28.133329264322917%",
+                    "top": "16.50841754415761%",
                     "display": "flex"
                 },
-                "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
+                "capInsets": {},
+                "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 39
+                "edgeOffsets": 75
             },
             "children": [],
-            "id": "b9651dde-4c11-4f7e-910b-5fa0b5ffa0ea",
+            "id": "87c8c53b-17f8-4c37-805f-fb3f03baa00c",
             "thunkableVersion": 425,
+            "bindings": null,
             "name": "Image2"
         },
         {
@@ -98,7 +100,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Label",
+                "Text": "",
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -150,7 +152,7 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 599,
-                "children": "Label"
+                "children": ""
             },
             "children": [],
             "id": "44781016-7096-487f-a728-4f5501893a63",
@@ -213,20 +215,21 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 263,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "c43f7dfd-4be3-4b12-a84c-91d6a62e3efe",
             "thunkableVersion": 425,
-            "name": "password_sign_in"
+            "name": "password_sign_in_input"
         },
         {
             "type": "TextInput",
             "translatedName": "Text Input",
             "properties": {
                 "Hint": "Type here",
-                "Height": 35,
-                "Width": 241,
+                "Height": 33,
+                "Width": 239,
                 "Visible": true,
                 "X": 109,
                 "Y": 213,
@@ -276,13 +279,12 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 213,
-                "placeholder": "Type here",
-                "secureTextEntry": false
+                "placeholder": "Type here"
             },
             "children": [],
             "id": "118f6916-51e6-4054-a5e8-83546dfd3298",
             "thunkableVersion": 425,
-            "name": "email_sign_in"
+            "name": "email_sign_in_input"
         },
         {
             "type": "Label",
@@ -346,7 +348,7 @@
             "children": [],
             "id": "d1a99ccd-9e91-4c57-bb7e-6a4b89f1f5c2",
             "thunkableVersion": 424,
-            "name": "Label10"
+            "name": "remember_me_label"
         },
         {
             "type": "Switch",
@@ -427,7 +429,8 @@
                 "Disabled": false,
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
-                "edgeOffsets": 427
+                "edgeOffsets": 427,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "14beff30-a8ac-4f62-a931-5d8c7ce604a9",
@@ -496,7 +499,7 @@
             "children": [],
             "id": "30663ed3-a62e-455a-b201-12121677ceb7",
             "thunkableVersion": 424,
-            "name": "Label5"
+            "name": "Password_label"
         },
         {
             "type": "Label",
@@ -560,7 +563,7 @@
             "children": [],
             "id": "535a30c8-490f-40bd-a91e-6765976494cf",
             "thunkableVersion": 424,
-            "name": "Label4"
+            "name": "Email_label"
         }
     ],
     "thunkableVersion": 424,

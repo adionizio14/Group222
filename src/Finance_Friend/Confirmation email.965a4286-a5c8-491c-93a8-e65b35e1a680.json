@@ -36,15 +36,24 @@
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(126, 226, 18, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
         },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {},
         "BackgroundColor": "rgba(126, 226, 18, 1)"
     },
     "children": [
@@ -54,13 +63,13 @@
             "properties": {
                 "Picture": "finance-friend-logo.png",
                 "resizeMode": "stretch",
-                "Height": 79,
-                "Width": 315,
+                "Height": 77,
+                "Width": 348,
                 "Visible": true,
-                "X": 33,
-                "Y": 36,
-                "RelativeX": 33,
-                "RelativeY": 36,
+                "X": 15,
+                "Y": 39,
+                "RelativeX": 15,
+                "RelativeY": 39,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -80,17 +89,19 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "14.533333333333333%",
-                    "top": "15.592203898050975%",
+                    "left": "28.133329264322917%",
+                    "top": "16.50841754415761%",
                     "display": "flex"
                 },
-                "ParentId": "965a4286-a5c8-491c-93a8-e65b35e1a680",
+                "capInsets": {},
+                "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 36
+                "edgeOffsets": 75
             },
             "children": [],
-            "id": "7ba6a8a1-4214-4a4a-bf08-63524709999e",
+            "id": "9911c1ec-e18b-48e3-bfc5-895ae993bbb4",
             "thunkableVersion": 425,
+            "bindings": null,
             "name": "Image4"
         },
         {
@@ -139,7 +150,8 @@
                 "Disabled": false,
                 "ParentId": "965a4286-a5c8-491c-93a8-e65b35e1a680",
                 "position": "absolute",
-                "edgeOffsets": 367
+                "edgeOffsets": 367,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "bf85976e-113a-4df8-99e4-273a437e9ed4",
@@ -152,7 +164,7 @@
             "reactType": "Text",
             "properties": {
                 "Text": "Please confirm email",
-                "FontSize": 18,
+                "FontSize": 28,
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
@@ -166,8 +178,9 @@
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 18,
+                    "fontSize": 28,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -203,7 +216,8 @@
                 "ParentId": "965a4286-a5c8-491c-93a8-e65b35e1a680",
                 "position": "absolute",
                 "edgeOffsets": 232,
-                "children": "Please confirm email"
+                "children": "Please confirm email",
+                "Font": "Oswald"
             },
             "children": [],
             "id": "bdb55a24-d161-48ff-a493-d3fc984452b8",

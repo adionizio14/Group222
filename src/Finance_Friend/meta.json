@@ -8,22 +8,21 @@
                 }
             },
             "assets": {
-                "65373a4513123f6d36c5df36": {
+                "65373e49504d54747deaeabe": {
                     "externalStorageType": "GCS",
-                    "_id": "65373a4513123f6d36c5df36",
+                    "_id": "65373e49504d54747deaeabe",
                     "size": "25563",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "finance-friend-logo.png",
-                    "backendURI": "/project/65373a4513123fb603c5df34/getasset/65373a4513123f6d36c5df36",
+                    "backendURI": "/project/653099e58e76b1c0e067cfd8/getasset/65373e49504d54747deaeabe",
                     "name": "finance-friend-logo.png",
-                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/65373a4513123fb603c5df34/assets/65373a4513123f6d36c5df36",
-                    "createdAt": "2023-10-24T02:42:31.574Z",
-                    "updatedAt": "2023-10-24T02:42:31.574Z",
+                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe",
+                    "createdAt": "2023-10-24T03:47:21.682Z",
+                    "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "id": "65373a4513123f6d36c5df36",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/65373a4513123fb603c5df34/assets/65373a4513123f6d36c5df36?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231024%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231024T033301Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=506f2bfa11b37dd6c0712a8f045137c00043760ea96332a654fa8f18bca8b3a3ffaa8d4f1c5e48d3fc1604a9651620f757ac589d29eb909130885275db240cc6e49a346274a67fc280aa7ef79cc824f843eadcb39037511c95ee1d35e52d20203fb0cc9afb3b7d90623e6e5438b436f3041c53d4fb481712206b4c40d735fb3e05920855b54aa5d6350d5b29339558e81f879a60f2ba7d3caf1c86ab01b4e961d1493332324d6247179fc797e61db3c61e1be1fc2613b8f4ed1d30ba7ec433ec5b81f915325722fdc570efd871be87b0cee7ee76df88b5616b9448313cfa0cd9d336bab2da668a0491d9f41982910d4f5b50def127b0847ade303191524b41b2",
-                    "signedUrlExpirationTime": 1698291181922
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231024%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231024T034721Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=65c9ce786db899c0c0909373d8fc37ca0abe795daad4f97b04ef89bdaaed72c84bf65d01e959990a3ad8c109d9abf2a5f1433f52481ca7cfc1c6fbc3f73fc95a146a293e1b69ba4fe497bda4e43722b0aea87253802a881d48572f2e88736407e3c2001fa4e7c915c7f09f2f9bf987b3475ecb1fd5035c8bf4c20728947ce129fbff22e5d1d9ed6da9fec5cb7443381f0bc08c3443f9bcf629e5a55190ce5b5c5c533be67bb632197b957a697ecd9a88d0f4dedc754c2d0ec4fe55f75da4644fad1eb791dbf9290f57917f94369b697253978fe4093510594512db252da82426111a23c844a0b85615d71ef40b0602ad5929ba651bafd31e8d189d6e33e07835",
+                    "signedUrlExpirationTime": 1698292041715
                 }
             },
             "backendUpgradeVersion": 22,
@@ -92,7 +91,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Finance Friend style_copy copy1",
+            "projectName": "Finance Friend Main",
             "settings": {
                 "teamId": null,
                 "appName": "Finance Friend",
@@ -104,10 +103,10 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
-                "stripePublishableKeyTest": "",
-                "stripePublishableKeyLive": "",
+                "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
+                "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -116,12 +115,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": "",
-                "imageRecognizerServerURL": "",
-                "imageRecognizerSubscriptionKey": "",
-                "cloudName": "",
-                "cloudinaryAPIKey": "",
-                "cloudinaryAPISecret": "",
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {}
                 },
@@ -148,10 +147,10 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
-                "stripePublishableKeyTest": "",
-                "stripePublishableKeyLive": "",
+                "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
+                "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -160,12 +159,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": "",
-                "imageRecognizerServerURL": "",
-                "imageRecognizerSubscriptionKey": "",
-                "cloudName": "",
-                "cloudinaryAPIKey": "",
-                "cloudinaryAPISecret": "",
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {}
                 },
@@ -190,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "4",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -198,6 +197,26 @@
                     "scope": "CLOUD",
                     "name": "name",
                     "screenId": "0fa11f06-030f-4bcf-a76e-56088598b1ae"
+                },
+                "ef787b77-0b72-4c48-8d46-5c87c61a0d80": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "02e2f537-0201-4ed9-9dd4-e4bc0defb278": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "07d68fae-2a5e-4da6-b4ac-8a34a3add96d": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "2a96bdd5-7dcf-4fe3-bcfa-5787645b96eb": {
+                    "scope": "APP",
+                    "name": "user ID",
+                    "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
                 }
             },
             "defaultDesignerDevice": "PHONE",

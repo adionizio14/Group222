@@ -36,15 +36,24 @@
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(126, 211, 33, 1)",
+        "StatusBarColor": "rgba(0,0,0,0.53)",
         "TabNavigationOptions": {
             "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
         },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {},
         "BackgroundColor": "rgba(126, 226, 18, 1)"
     },
     "children": [
@@ -80,16 +89,17 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "25.466666666666665%",
-                    "top": "7.496251874062969%",
+                    "left": "28.133329264322917%",
+                    "top": "16.50841754415761%",
                     "display": "flex"
                 },
+                "capInsets": {},
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 39
+                "edgeOffsets": 75
             },
             "children": [],
-            "id": "6c8b6c28-1f78-4411-a0d0-d6e065e8f117",
+            "id": "14d9ab87-0dab-4ffd-ad92-4fee4b9a4df0",
             "thunkableVersion": 425,
             "name": "Image1"
         },
@@ -139,7 +149,8 @@
                 "Disabled": false,
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 476
+                "edgeOffsets": 476,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "78d986f0-1a97-4826-b0aa-73397922e871",
@@ -192,7 +203,8 @@
                 "Disabled": false,
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 380
+                "edgeOffsets": 380,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "6a221b03-1ad2-4d7a-a41a-9e9f18d8295f",
@@ -208,8 +220,8 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
-                "Height": 47,
-                "Width": 313,
+                "Height": 49,
+                "Width": 315,
                 "Visible": true,
                 "X": 32,
                 "Y": 298,
@@ -245,7 +257,8 @@
                 "Disabled": false,
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 298
+                "edgeOffsets": 298,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "cf1e9c63-b4ba-4c64-8481-923caa86f3ec",
@@ -257,8 +270,8 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Welcome",
-                "FontSize": 18,
+                "Text": "Welcome!",
+                "FontSize": 35,
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
@@ -266,14 +279,15 @@
                 "Width": 249,
                 "Visible": true,
                 "X": 63,
-                "Y": 184,
+                "Y": 179,
                 "RelativeX": 63,
-                "RelativeY": 184,
+                "RelativeY": 179,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 18,
+                    "fontSize": 35,
                     "fontStyle": "normal",
+                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -304,12 +318,15 @@
                     "left": "31.659256998697916%",
                     "top": "23.464311545399177%",
                     "lineHeight": 1,
-                    "display": "flex"
+                    "display": "flex",
+                    "textAlign": "center"
                 },
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 184,
-                "children": "Welcome"
+                "edgeOffsets": 179,
+                "children": "Welcome!",
+                "Font": "Oswald",
+                "TextAlign": "center"
             },
             "children": [],
             "id": "0c850484-449c-4338-a23f-bc516533d038",
