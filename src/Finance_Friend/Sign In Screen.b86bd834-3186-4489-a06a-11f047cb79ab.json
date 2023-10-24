@@ -1,4 +1,5 @@
 {
+    "id": "b86bd834-3186-4489-a06a-11f047cb79ab",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -579,7 +580,6 @@
             "name": "Logo_label"
         }
     ],
-    "id": "b86bd834-3186-4489-a06a-11f047cb79ab",
     "thunkableVersion": 424,
     "name": "Sign In Screen"
 }
