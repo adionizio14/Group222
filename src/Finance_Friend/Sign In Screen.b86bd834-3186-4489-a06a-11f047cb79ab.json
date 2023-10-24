@@ -30,7 +30,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(126, 226, 18, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -43,9 +44,55 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "BackgroundColor": "rgba(126, 226, 18, 1)"
     },
     "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "finance-friend-logo.png",
+                "resizeMode": "stretch",
+                "Height": 78,
+                "Width": 331,
+                "Visible": true,
+                "X": 22,
+                "Y": 39,
+                "RelativeX": 22,
+                "RelativeY": 39,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "32.13333333333333%",
+                    "top": "6.896551724137931%",
+                    "display": "flex"
+                },
+                "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
+                "position": "absolute",
+                "edgeOffsets": 39
+            },
+            "children": [],
+            "id": "b9651dde-4c11-4f7e-910b-5fa0b5ffa0ea",
+            "thunkableVersion": 425,
+            "name": "Image2"
+        },
         {
             "type": "Label",
             "translatedName": "Label",
@@ -166,21 +213,20 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 263,
-                "placeholder": "Type here",
-                "secureTextEntry": true
+                "placeholder": "Type here"
             },
             "children": [],
             "id": "c43f7dfd-4be3-4b12-a84c-91d6a62e3efe",
             "thunkableVersion": 425,
-            "name": "password_sign_in_input"
+            "name": "password_sign_in"
         },
         {
             "type": "TextInput",
             "translatedName": "Text Input",
             "properties": {
                 "Hint": "Type here",
-                "Height": 33,
-                "Width": 239,
+                "Height": 35,
+                "Width": 241,
                 "Visible": true,
                 "X": 109,
                 "Y": 213,
@@ -230,12 +276,13 @@
                 "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
                 "position": "absolute",
                 "edgeOffsets": 213,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": false
             },
             "children": [],
             "id": "118f6916-51e6-4054-a5e8-83546dfd3298",
             "thunkableVersion": 425,
-            "name": "email_sign_in_input"
+            "name": "email_sign_in"
         },
         {
             "type": "Label",
@@ -299,7 +346,7 @@
             "children": [],
             "id": "d1a99ccd-9e91-4c57-bb7e-6a4b89f1f5c2",
             "thunkableVersion": 424,
-            "name": "remember_me_label"
+            "name": "Label10"
         },
         {
             "type": "Switch",
@@ -449,7 +496,7 @@
             "children": [],
             "id": "30663ed3-a62e-455a-b201-12121677ceb7",
             "thunkableVersion": 424,
-            "name": "Password_label"
+            "name": "Label5"
         },
         {
             "type": "Label",
@@ -513,71 +560,7 @@
             "children": [],
             "id": "535a30c8-490f-40bd-a91e-6765976494cf",
             "thunkableVersion": 424,
-            "name": "Email_label"
-        },
-        {
-            "type": "Label",
-            "translatedName": "Label",
-            "reactType": "Text",
-            "properties": {
-                "Text": "Finance Friend (logo)",
-                "FontSize": 18,
-                "CustomFont": "",
-                "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
-                "Height": 45,
-                "Width": 311,
-                "Visible": true,
-                "X": 32,
-                "Y": 64,
-                "RelativeX": 32,
-                "RelativeY": 64,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 18,
-                    "fontStyle": "normal",
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "flexWrap": "wrap",
-                    "borderWidth": 0,
-                    "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "32.99259033203125%",
-                    "top": "16.717684858742505%",
-                    "lineHeight": 1,
-                    "display": "flex"
-                },
-                "ParentId": "b86bd834-3186-4489-a06a-11f047cb79ab",
-                "position": "absolute",
-                "edgeOffsets": 64,
-                "children": "Finance Friend (logo)"
-            },
-            "children": [],
-            "id": "155f0699-46af-44ec-9deb-3ec251450877",
-            "thunkableVersion": 424,
-            "name": "Logo_label"
+            "name": "Label4"
         }
     ],
     "thunkableVersion": 424,
