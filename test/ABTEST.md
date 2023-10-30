@@ -19,3 +19,5 @@ notification and also how much time is spent by the group on the savings plan pa
 
 There wouldn't be any variations to the app layout or design changes. The only different thing that would 
 happen is the user gets a notification on their homescreen. 
+
+![layout](AB_layout1.jpg)
