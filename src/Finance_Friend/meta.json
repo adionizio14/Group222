@@ -21,11 +21,11 @@
                     "createdAt": "2023-10-24T03:47:21.682Z",
                     "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231024%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231024T034721Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=65c9ce786db899c0c0909373d8fc37ca0abe795daad4f97b04ef89bdaaed72c84bf65d01e959990a3ad8c109d9abf2a5f1433f52481ca7cfc1c6fbc3f73fc95a146a293e1b69ba4fe497bda4e43722b0aea87253802a881d48572f2e88736407e3c2001fa4e7c915c7f09f2f9bf987b3475ecb1fd5035c8bf4c20728947ce129fbff22e5d1d9ed6da9fec5cb7443381f0bc08c3443f9bcf629e5a55190ce5b5c5c533be67bb632197b957a697ecd9a88d0f4dedc754c2d0ec4fe55f75da4644fad1eb791dbf9290f57917f94369b697253978fe4093510594512db252da82426111a23c844a0b85615d71ef40b0602ad5929ba651bafd31e8d189d6e33e07835",
-                    "signedUrlExpirationTime": 1698292041715
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T182520Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6fc72f2cecc01631de7c203e7f36714f9b146a14ddc957b8faa1740104bd4aef39b13743c421b372112cc13b566b2166f9478883d353a07c586aeea22cbc1a2fa53b53836f7638ad579e857af05eac8d67679b2db330890071aa31e0bc25c4ebd3641dc26cb8e5e7c0c9474449ad60b937b2c31149bf278252a4c6f0a4efca0877173f6d26ad40de2db82edee3cd1cf176794a0d32a9df9b253d023cf349c50cc4993a0f2df232e37372d87322a6e9c8a0ce28b40bc35eca618cf3bd7281e9649980cce53411effc7dac3b358d3de54c34338a2a2993444b03bdeae1979344f6eafe4e8f8ce5a632494f7a998924d4fb2f06fec185dd4f5934e8cd49fad3ae7f",
+                    "signedUrlExpirationTime": 1698863120106
                 }
             },
-            "backendUpgradeVersion": 22,
+            "backendUpgradeVersion": 23,
             "blockly": {
                 "73768632-fbd4-4dfb-8b60-9fc738989579": {
                     "xml": "",
@@ -66,6 +66,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "bf3560a6-1830-4306-9924-1cc2f798709b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -84,6 +94,9 @@
                         "id": "0fa11f06-030f-4bcf-a76e-56088598b1ae"
                     },
                     {
+                        "id": "bf3560a6-1830-4306-9924-1cc2f798709b"
+                    },
+                    {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
                     }
                 ]
@@ -91,7 +104,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Finance Friend Main",
+            "projectName": "Finance Friend Expenses Page",
             "settings": {
                 "teamId": null,
                 "appName": "Finance Friend",
@@ -189,7 +202,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "4",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
