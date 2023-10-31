@@ -21,3 +21,16 @@ There wouldn't be any variations to the app layout or design changes. The only d
 happen is the user gets a notification on their homescreen. 
 
 ![layout](AB_layout1.jpg)
+
+
+**A/B Test Name**: 
+
+**User Story Number**: 
+
+**Metric**: 
+
+**Hypothesis**: 
+
+**Experiement**: 
+
+**Varitations**: 
