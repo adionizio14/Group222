@@ -1,4 +1,5 @@
 {
+    "id": "bf3560a6-1830-4306-9924-1cc2f798709b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1185,7 +1186,6 @@
             "name": "Rent/Mortgage Label"
         }
     ],
-    "id": "bf3560a6-1830-4306-9924-1cc2f798709b",
     "thunkableVersion": 426,
     "name": "Expenses Screen"
 }
