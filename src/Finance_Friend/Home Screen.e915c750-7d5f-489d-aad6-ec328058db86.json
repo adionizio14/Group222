@@ -1,4 +1,5 @@
 {
+    "id": "e915c750-7d5f-489d-aad6-ec328058db86",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -281,7 +282,6 @@
             "name": "Image6"
         }
     ],
-    "id": "e915c750-7d5f-489d-aad6-ec328058db86",
     "thunkableVersion": 428,
     "name": "Home Screen"
 }
