@@ -240,13 +240,13 @@
             "properties": {
                 "Picture": "finance-friend-logo.png",
                 "resizeMode": "stretch",
-                "Height": 77,
-                "Width": 348,
+                "Height": 79,
+                "Width": 350,
                 "Visible": true,
-                "X": 15,
-                "Y": 39,
-                "RelativeX": 15,
-                "RelativeY": 39,
+                "X": 16,
+                "Y": 40,
+                "RelativeX": 16,
+                "RelativeY": 40,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -273,7 +273,7 @@
                 "capInsets": {},
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 75
+                "edgeOffsets": 40
             },
             "children": [],
             "id": "04ab8834-421f-4122-8b78-e1db0a8572cd",

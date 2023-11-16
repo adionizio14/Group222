@@ -21,8 +21,8 @@
                     "createdAt": "2023-10-24T03:47:21.682Z",
                     "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T193956Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7079edaab7e1528574cdc0eafd31335aec99a3399b1186a2c9ddc644bac406669538acc299352d3910f66bf819816e7d5d5728186d6abdbfcccb8875a22ebd51d2927857bb885a0ee01c8f75378db1e8ca775b2e6f2ba8005ebc0076a2fcb90865349f2ab87e18bfb984edb493549d25aedf176b5c0759c14484c8b128f82190bd27387e297f5d84efefea952145b3dc6da72b966621bc207574d0f811287c457c72a8e1480516ae7323ce8f3b5c2b5ab8425c5a0a0e1158619adce79efddda9cdf762f76e73f08adac1a099ca2634a98da249b77dd97285a525b8c1de214e0944f919531f4c36f1b8e80f821c5c01686d1cb978adaa3e99fa4a376c8e3bd7f8",
-                    "signedUrlExpirationTime": 1699472396346
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231115%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231115T224307Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=158ee29e3ca3271e1271c7a865ed86df714d3b9dd845039582ed559059e6fb6c2038fa424fbf8cadf1e3ba7c2a17905dcc516c6e852580282a1b182aba83b207645e9f9a459171c2c3a9c4df07492d54de8de7e746946e7f994a036d011dfaf349400478c39713434bc01ff65507b878f9f2a3fa6900e9bae1441462288bb818e009de35d1f1eadaf0d6fe7b4e47f4d216e14dc4d2a52bd0f8bd1f2263c89178d7c3a95e0954ff1e96ea7a96c8869ae5171f05815fd3db8164fb7c9043e01a81a684046b43d928372ead29b6b3f686c23983d5aa59cca29247b588b5020f35e711f76530e10541de971a699cf6f32fabf5e558a29dc2c3fff9eae10359cb6991",
+                    "signedUrlExpirationTime": 1700260987022
                 }
             },
             "backendUpgradeVersion": 23,
@@ -86,6 +86,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "c1a360d9-a32b-4bff-ac24-c357a1202275": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -105,6 +115,9 @@
                     },
                     {
                         "id": "bf3560a6-1830-4306-9924-1cc2f798709b"
+                    },
+                    {
+                        "id": "c1a360d9-a32b-4bff-ac24-c357a1202275"
                     },
                     {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
@@ -215,7 +228,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "4",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -243,6 +256,16 @@
                     "scope": "APP",
                     "name": "user ID",
                     "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "eeb1e3f1-01ed-44e9-93c9-f16a4d061e8c": {
+                    "scope": "STORED",
+                    "name": "total_expenses",
+                    "screenId": "bf3560a6-1830-4306-9924-1cc2f798709b"
+                },
+                "98c86749-0156-4156-8c8e-511a33bbcc29": {
+                    "scope": "APP",
+                    "name": "monthly_savings",
+                    "screenId": "c1a360d9-a32b-4bff-ac24-c357a1202275"
                 }
             },
             "defaultDesignerDevice": "PHONE",
