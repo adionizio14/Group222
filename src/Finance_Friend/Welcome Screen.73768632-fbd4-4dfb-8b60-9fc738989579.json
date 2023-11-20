@@ -278,10 +278,10 @@
                 "Height": 40,
                 "Width": 249,
                 "Visible": true,
-                "X": 63,
-                "Y": 179,
-                "RelativeX": 63,
-                "RelativeY": 179,
+                "X": 62,
+                "Y": 182,
+                "RelativeX": 62,
+                "RelativeY": 182,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -323,7 +323,7 @@
                 },
                 "ParentId": "73768632-fbd4-4dfb-8b60-9fc738989579",
                 "position": "absolute",
-                "edgeOffsets": 179,
+                "edgeOffsets": 182,
                 "children": "Welcome!",
                 "Font": "Oswald",
                 "TextAlign": "center"

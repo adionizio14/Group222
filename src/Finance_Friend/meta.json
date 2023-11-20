@@ -114,6 +114,9 @@
                         "id": "0fa11f06-030f-4bcf-a76e-56088598b1ae"
                     },
                     {
+                        "id": "e915c750-7d5f-489d-aad6-ec328058db86"
+                    },
+                    {
                         "id": "bf3560a6-1830-4306-9924-1cc2f798709b"
                     },
                     {
@@ -121,16 +124,13 @@
                     },
                     {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
-                    },
-                    {
-                        "id": "e915c750-7d5f-489d-aad6-ec328058db86"
                     }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": "https://x.thunkable.com/project/65564adb35f736221017c3f9/getasset/655ac8ee7b779242d2b45d8c",
-            "projectName": "Finance Friend Savings Page",
+            "projectName": "Finance Friend Main",
             "settings": {
                 "teamId": null,
                 "appName": "Finance Friend",
@@ -258,7 +258,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "4",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
