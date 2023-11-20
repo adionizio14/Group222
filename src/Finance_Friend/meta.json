@@ -21,8 +21,8 @@
                     "createdAt": "2023-10-24T03:47:21.682Z",
                     "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231109%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231109T163805Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a0b54ec0865f2430db7a09d1b6af22f35a6032a8bfafa4c602b2cfa387ff7ae8b0f4dac4dc9b44bfe454ad6a5107b10ec2070b4a231f3faf4216886f53e802ca0ec1e3db2846dc801c8f509790b3fde3b004d4df5cf90dcca640d8dec6f46f4bfcc9c71337b124fcaf0da49907d19fb4aa678e3525acb278ba647f948104389f57418d7a9ffbf8adc266a0241e558835622ca758cbf03cac767ac330bc730455e87c03a86529b12213216a426529a033959921e24c22610d2338aff5fe10077b311bb3f13f9828ff1267e9b8a0a5ba5048b9e8280f352c8e35d0c039e22730d484477856c9733c323f40d74725be7637b94a706360aa62351d326a5248ff1857",
-                    "signedUrlExpirationTime": 1699720685353
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231120%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231120T185040Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=47383ca3fbe0ee55c554b821b6b9a300ae8d94c7119e5d2879d55a42c8090436bfa69036c491bbb1f90d4858fc1a14ae075c5156a9e49be59014e3b6b14d071a27cd4485f3c1822b16dd8ae8442cf8a41f39d2e9198a29c1635bbbf2c3f2f584639f6ef0725516d9019f634dc6a1f5707ce47a60e6a3160a6413886ff8b7780b78c688948118b17de24599b1e00fba6d4733545f05bf40c58fbaf1443bf665250b1716eb76ab998317f96bc565eeedfb439e3a8163d8d436db34170a0d854e11ea9eace1d155fbc58439633d31cc5fa4aeee621d5826208a2c487276901a4ef24f69e955862d8eae9acf6a81004df61c15a4a14c1ed79f4438a2bf2d09e60f1a",
+                    "signedUrlExpirationTime": 1700679040490
                 }
             },
             "backendUpgradeVersion": 23,
@@ -86,6 +86,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "c1a360d9-a32b-4bff-ac24-c357a1202275": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -107,6 +117,9 @@
                         "id": "bf3560a6-1830-4306-9924-1cc2f798709b"
                     },
                     {
+                        "id": "c1a360d9-a32b-4bff-ac24-c357a1202275"
+                    },
+                    {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
                     },
                     {
@@ -116,18 +129,33 @@
             },
             "figmaComponents": {},
             "description": null,
-            "icon": null,
-            "projectName": "Finance Friend Main",
+            "icon": "https://x.thunkable.com/project/65564adb35f736221017c3f9/getasset/655ac8ee7b779242d2b45d8c",
+            "projectName": "Finance Friend Savings Page",
             "settings": {
                 "teamId": null,
                 "appName": "Finance Friend",
-                "icon": null,
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "655ac8ee7b779242d2b45d8c",
+                    "size": "25563",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "finance-friend-logo.png",
+                    "backendURI": "/project/65564adb35f736221017c3f9/getasset/655ac8ee7b779242d2b45d8c",
+                    "name": "finance-friend-logo.png",
+                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/65564adb35f736221017c3f9/assets/655ac8ee7b779242d2b45d8c",
+                    "createdAt": "2023-11-20T02:48:14.347Z",
+                    "updatedAt": "2023-11-20T02:48:14.347Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/65564adb35f736221017c3f9/assets/655ac8ee7b779242d2b45d8c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231120%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231120T024814Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5a90fbb825feda3fe9f97aa3c8dd5d53814346ec5586de4fa2c81fd1dd6b0aaf8d2486cfeffbd471a467ff85c86d1137b28e3bd161f23041d56a64a18657cff7a62c43a5e099dc425e77ea2ec657752ddb3d9acc8eaf2927eb00c6ef3c3e8ffb70874701c3422e5517b51ef5f9ce747819c6da1f09da73ee008cc87e8d7649b71b1e7b5927c8bf48846759b44f92774b9d6961e5732f56717210c1ce7070fcc4f7cc699c0632888cef8f9bc92f22f29c871ee04a2b16c2462948829eb06c8e6a945732e02b9afe69544c1592841c28510712626b3228239e8d18b6da99429fcff485e905c2b2c8f2c69751ec2f8f6c65f1684c200d611961ff3ded4233af7a42",
+                    "signedUrlExpirationTime": 1700621294382
+                },
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "5",
+                "androidVersionCode": 5,
+                "iosVersionNumber": "5",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
                 "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
@@ -165,13 +193,28 @@
             "projectSettings": {
                 "teamId": null,
                 "appName": "Finance Friend",
-                "icon": null,
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "655ac8ee7b779242d2b45d8c",
+                    "size": "25563",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "finance-friend-logo.png",
+                    "backendURI": "/project/65564adb35f736221017c3f9/getasset/655ac8ee7b779242d2b45d8c",
+                    "name": "finance-friend-logo.png",
+                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/65564adb35f736221017c3f9/assets/655ac8ee7b779242d2b45d8c",
+                    "createdAt": "2023-11-20T02:48:14.347Z",
+                    "updatedAt": "2023-11-20T02:48:14.347Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/65564adb35f736221017c3f9/assets/655ac8ee7b779242d2b45d8c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231120%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231120T024814Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5a90fbb825feda3fe9f97aa3c8dd5d53814346ec5586de4fa2c81fd1dd6b0aaf8d2486cfeffbd471a467ff85c86d1137b28e3bd161f23041d56a64a18657cff7a62c43a5e099dc425e77ea2ec657752ddb3d9acc8eaf2927eb00c6ef3c3e8ffb70874701c3422e5517b51ef5f9ce747819c6da1f09da73ee008cc87e8d7649b71b1e7b5927c8bf48846759b44f92774b9d6961e5732f56717210c1ce7070fcc4f7cc699c0632888cef8f9bc92f22f29c871ee04a2b16c2462948829eb06c8e6a945732e02b9afe69544c1592841c28510712626b3228239e8d18b6da99429fcff485e905c2b2c8f2c69751ec2f8f6c65f1684c200d611961ff3ded4233af7a42",
+                    "signedUrlExpirationTime": 1700621294382
+                },
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "5",
+                "androidVersionCode": 5,
+                "iosVersionNumber": "5",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDw3unEcxY_VXetULzCDzPaiAIWylPqok8",
                 "firebaseDatabaseURL": "https://group222-finance-app-default-rtdb.firebaseio.com",
@@ -243,6 +286,21 @@
                     "scope": "APP",
                     "name": "user ID",
                     "screenId": "b86bd834-3186-4489-a06a-11f047cb79ab"
+                },
+                "eeb1e3f1-01ed-44e9-93c9-f16a4d061e8c": {
+                    "scope": "STORED",
+                    "name": "total_expenses",
+                    "screenId": "bf3560a6-1830-4306-9924-1cc2f798709b"
+                },
+                "98c86749-0156-4156-8c8e-511a33bbcc29": {
+                    "scope": "APP",
+                    "name": "monthly_savings",
+                    "screenId": "c1a360d9-a32b-4bff-ac24-c357a1202275"
+                },
+                "c84cf644-c7d0-4cf0-97fe-f60f3cff3c1a": {
+                    "scope": "APP",
+                    "name": "disposable_income",
+                    "screenId": "c1a360d9-a32b-4bff-ac24-c357a1202275"
                 }
             },
             "defaultDesignerDevice": "PHONE",
