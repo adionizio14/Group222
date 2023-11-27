@@ -201,7 +201,7 @@
                 "TextAlign": "center",
                 "Height": 49,
                 "Width": 373,
-                "Visible": true,
+                "Visible": false,
                 "X": 0,
                 "Y": 484,
                 "RelativeX": 0,
@@ -242,7 +242,7 @@
                     "left": "29.2%",
                     "top": "64.34712331334333%",
                     "lineHeight": 1,
-                    "display": "flex",
+                    "display": "none",
                     "fontWeight": "bold",
                     "textAlign": "center"
                 },
