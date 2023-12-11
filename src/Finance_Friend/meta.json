@@ -4,7 +4,21 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "{Enter Your API Key Here}"
+                            },
+                            "children": [],
+                            "id": "aa99c731-37ab-400b-87d3-c67c04bff20b",
+                            "thunkableVersion": 435,
+                            "name": "Open_AI_Service1"
+                        }
+                    ]
                 }
             },
             "assets": {
@@ -21,8 +35,8 @@
                     "createdAt": "2023-10-24T03:47:21.682Z",
                     "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231127%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231127T185734Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=11b2e8c67dc93e04c81ddbf6e42b4dbd32ffebf6c8090b106fb256b2bdd0bbbd1873a63668616f3a45d85a12730cf8024395e7cc14cfc6c8b63888378beef7b94af27b89337abcda4c637db49d683fe1dd779bee41d9382ffd6b2899f788e9950ebcb9c885c88b9aab8949dd8c5e8386d197b5ca0409c4011b122eed91736948e1d466f0141e31705c9ab7d0e1baff16e14f0105f9e9ed376c08ad96cac252cdfaa93503efea8618bd5077a6fca17e8abcbd7451bd5031ad1b566852e50e39d8c0b94cfd2171a1b98035c02869d5509f1400319cbc1d52f307eec28746669b2624b6c7b071bcad8599057d8f0159a6ef7bce2859ecc48acd98b0f4a548676eb2",
-                    "signedUrlExpirationTime": 1701284254081
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231211%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231211T033530Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7f03eba9d6e654f4bf24e1c97d2e63fe850203151f642b01d15bd7c2840e7a0354e5cd0dd638b91e95fec7fe09b014233534a8dfc566e42cb60a4b20bdc88a386f96a095838f0dfd1b08b10fe78206720ac75342847e9fae6b0ef2597926b2688e179587ea3520ed428ad345518de32939e6a7b9a85d0dbb6319acea3d93ee2527a7a18a12655275d4638c5e7307d61b35ca6861372d0d3186264e5522ebfe9265d3f6c7ee2235fab299d61a577b94a9dabe0a80eafec8729890dc36177aec0a61a63ba11ea019525478a14fcb494ae8536170d35e3d62b96f084e3a0c00b289e72b7b9a0291c13b0c25c48b007af496687e3faf55b1fd9533434bba2ce26c62",
+                    "signedUrlExpirationTime": 1702438530346
                 }
             },
             "backendUpgradeVersion": 23,
@@ -96,6 +110,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "015d9c7c-ff5d-42eb-a370-5bfbe5c29085": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -121,6 +145,9 @@
                     },
                     {
                         "id": "c1a360d9-a32b-4bff-ac24-c357a1202275"
+                    },
+                    {
+                        "id": "015d9c7c-ff5d-42eb-a370-5bfbe5c29085"
                     },
                     {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
@@ -258,7 +285,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "4",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
