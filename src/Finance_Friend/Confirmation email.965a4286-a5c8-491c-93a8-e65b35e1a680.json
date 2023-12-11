@@ -31,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(126, 226, 18, 1)"
+            "backgroundColor": "rgba(250, 252, 247, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -54,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(126, 226, 18, 1)"
+        "BackgroundColor": "rgba(250, 252, 247, 1)"
     },
     "children": [
         {
@@ -109,16 +109,16 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Back to Sign In",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(255, 255, 255, 1)",
                 "FontSize": 16,
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(151, 181, 163, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
-                "X": 32,
+                "X": 34,
                 "Y": 367,
-                "RelativeX": 32,
+                "RelativeX": 34,
                 "RelativeY": 367,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -163,21 +163,21 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Please confirm email",
+                "Text": "Please check your email to confirm your account and sign-in",
                 "FontSize": 28,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
-                "Height": 45,
-                "Width": 311,
+                "Color": "rgba(151, 181, 163, 1)",
+                "Height": 110,
+                "Width": 282,
                 "Visible": true,
-                "X": 32,
-                "Y": 232,
-                "RelativeX": 32,
-                "RelativeY": 232,
+                "X": 48,
+                "Y": 192,
+                "RelativeX": 48,
+                "RelativeY": 192,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(151, 181, 163, 1)",
                     "fontSize": 28,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -216,8 +216,8 @@
                 },
                 "ParentId": "965a4286-a5c8-491c-93a8-e65b35e1a680",
                 "position": "absolute",
-                "edgeOffsets": 232,
-                "children": "Please confirm email",
+                "edgeOffsets": 192,
+                "children": "Please check your email to confirm your account and sign-in",
                 "Font": "Oswald",
                 "TextAlign": "center"
             },

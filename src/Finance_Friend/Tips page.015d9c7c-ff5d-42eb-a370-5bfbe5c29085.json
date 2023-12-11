@@ -1,4 +1,5 @@
 {
+    "id": "015d9c7c-ff5d-42eb-a370-5bfbe5c29085",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -6,7 +7,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(126, 226, 18, 1)",
+        "BackgroundColor": "rgba(250, 252, 247, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,7 +32,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(126, 226, 18, 1)"
+            "backgroundColor": "rgba(250, 252, 247, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -56,6 +57,61 @@
         "tabNavigationOptions": {}
     },
     "children": [
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Return Home ",
+                "TextColor": "#FFFFFF",
+                "FontSize": 16,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(151, 181, 163, 1)",
+                "Height": 52,
+                "Width": 143,
+                "Visible": true,
+                "X": 115,
+                "Y": 598,
+                "RelativeX": 115,
+                "RelativeY": 598,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "36.93333333333333%",
+                    "top": "78.59000187406296%",
+                    "display": "flex"
+                },
+                "FontBold": false,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "c1a360d9-a32b-4bff-ac24-c357a1202275",
+                "position": "absolute",
+                "edgeOffsets": 598,
+                "Font": "Oswald"
+            },
+            "children": [],
+            "id": "2ed5b3d2-dd30-416c-8818-fa1f7da174bd",
+            "thunkableVersion": 435,
+            "bindings": null,
+            "name": "return_home_button1"
+        },
         {
             "type": "List Viewer",
             "translatedName": "Simple List",
@@ -185,13 +241,13 @@
             "properties": {
                 "Picture": "finance-friend-logo.png",
                 "resizeMode": "stretch",
-                "Height": 77,
-                "Width": 348,
+                "Height": 86,
+                "Width": 320,
                 "Visible": true,
-                "X": 15,
-                "Y": 39,
-                "RelativeX": 15,
-                "RelativeY": 39,
+                "X": 27,
+                "Y": 32,
+                "RelativeX": 27,
+                "RelativeY": 32,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -235,7 +291,7 @@
                 "FontSize": 28,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(151, 181, 163, 1)",
                 "Height": 44,
                 "Width": 317,
                 "Visible": true,
@@ -245,7 +301,7 @@
                 "RelativeY": 121,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(151, 181, 163, 1)",
                     "fontSize": 28,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -295,7 +351,6 @@
             "name": "Help Label"
         }
     ],
-    "id": "015d9c7c-ff5d-42eb-a370-5bfbe5c29085",
     "thunkableVersion": 434,
     "bindings": null,
     "name": "Tips page"
