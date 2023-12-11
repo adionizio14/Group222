@@ -112,7 +112,7 @@
                     }
                 },
                 "015d9c7c-ff5d-42eb-a370-5bfbe5c29085": {
-					"xml": "",
+                    "xml": "",
                     "permissions": {
                         "android": [],
                         "ios": []
@@ -120,7 +120,7 @@
                     "enabledFeatures": {
                         "iap": false
                     }
-				},
+                },
                 "df525b69-f42c-47cd-ba2c-16472d65164b": {
                     "xml": "",
                     "permissions": {
@@ -158,8 +158,8 @@
                     },
                     {
                         "id": "015d9c7c-ff5d-42eb-a370-5bfbe5c29085"
-					},
-					{
+                    },
+                    {
                         "id": "df525b69-f42c-47cd-ba2c-16472d65164b"
                     },
                     {
@@ -298,7 +298,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "4",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
