@@ -200,7 +200,7 @@ def to_modular_project(project: dict) -> dict:
 
     screens = []
     for screen_or_nav in iproject["components"]["children"]:
-        if "Navigator" in screen_or_nav["name"]:
+        if "Navigator" in screen_or_nav["type"]:
             screens.extend(screen_or_nav["children"])
         else:
             screens.append(screen_or_nav)
@@ -223,6 +223,10 @@ def to_modular_project(project: dict) -> dict:
     for screen_id in iproject["blockly"]:
         # Ensure that there are actually blocks to extract.
         if "xml" in iproject["blockly"][screen_id]:
+            # If the screen no longer exists, ignore the XML.
+            if screen_id not in screen_id_to_name:
+                # TODO: Clean the dead JSON.
+                continue
             # Add the blocks to the modular project.
             path = f"{screen_id_to_name[screen_id]}.{screen_id}.xml"
             modular_project[path] = iproject["blockly"][screen_id]["xml"]
@@ -245,7 +249,7 @@ def from_modular_project(modular_project: dict) -> dict:
 
     screens = []
     for screen_or_nav in iproject["components"]["children"]:
-        if "name" in screen_or_nav and "Navigator" in screen_or_nav["name"]:
+        if "name" in screen_or_nav and "Navigator" in screen_or_nav["type"]:
             screens.extend(screen_or_nav["children"])
         else:
             screens.append(screen_or_nav)
