@@ -198,13 +198,13 @@
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
-                "Height": 114,
-                "Width": 317,
+                "Height": 135,
+                "Width": 319,
                 "Visible": true,
                 "X": 33,
-                "Y": 214,
+                "Y": 195,
                 "RelativeX": 33,
-                "RelativeY": 214,
+                "RelativeY": 195,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -245,7 +245,7 @@
                 },
                 "ParentId": "df525b69-f42c-47cd-ba2c-16472d65164b",
                 "position": "absolute",
-                "edgeOffsets": 214,
+                "edgeOffsets": 195,
                 "children": "50"
             },
             "children": [],
@@ -321,9 +321,9 @@
                 "Width": 67,
                 "Visible": true,
                 "X": 298,
-                "Y": 160,
+                "Y": 153,
                 "RelativeX": 298,
-                "RelativeY": 160,
+                "RelativeY": 153,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -354,7 +354,7 @@
                 "Disabled": false,
                 "ParentId": "df525b69-f42c-47cd-ba2c-16472d65164b",
                 "position": "absolute",
-                "edgeOffsets": 160
+                "edgeOffsets": 153.99999999999997
             },
             "children": [],
             "id": "66f1a38f-39f9-4315-9223-62a0bfbb80bf",
@@ -435,9 +435,9 @@
                 "Width": 112,
                 "Visible": true,
                 "X": 188,
-                "Y": 158,
+                "Y": 154,
                 "RelativeX": 188,
-                "RelativeY": 158,
+                "RelativeY": 154,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -482,7 +482,7 @@
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                 "ParentId": "df525b69-f42c-47cd-ba2c-16472d65164b",
                 "position": "absolute",
-                "edgeOffsets": 158,
+                "edgeOffsets": 154,
                 "placeholder": "Type here"
             },
             "children": [],
