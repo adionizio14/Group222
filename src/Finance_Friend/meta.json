@@ -35,8 +35,8 @@
                     "createdAt": "2023-10-24T03:47:21.682Z",
                     "updatedAt": "2023-10-24T03:47:21.682Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231211%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231211T185901Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1009ec8893e5c2671fbeb895221cc5ebeb39569db52f4ee61ef36cda9f923e55943c374bfdfb280d9a21832f89d3bb2387a4e2180ed9b57ebe14d993dfd418ccd3d7bdc922cadaa365d08f5f3144971665e535d0dcb99ad9cd2f80bfa94861af7091ae2a5af5ebe2bb37c8dc745946b846c8e48a66f618415c3e4d7657fd392a6c8021570cf5c0fb0b70e24f3401aec8c5982fa800a3a1c7a429efe8c531c68e7b1801a33deb01ae5df348edbf70f472e3f1010c6eece1bc8c3a1f6e99e293a4c8f8a368cee7b741c8c608f6bba7feeb0687bdd869b6b5accc04ca61d7b602d42ad507b9568748c7fac2ba4f61b3b2fd14feb86aba2cd73082ac0bb423cf9e2c",
-                    "signedUrlExpirationTime": 1702493941379
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/653099e58e76b1c0e067cfd8/assets/65373e49504d54747deaeabe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231213%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231213T222309Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7b0b76c80c1fa0cafa4e0e04745cb463ae46b53cc9aabe4ef645f64ea697199a502a4bd0522b16dcc7ae07f572dd54c160da8bbd1508fa546384b3a68a7eb45f735d5f3e9fbcc56feaed42fdd286daf48e4a852b4004de965cca55835d023cca1aa088a102753eb74e804f83359e31566b93742bafacbc5aedb0f753d5491f3998ee8d565aa2164f598586dd471bee0b42a9bc9d0bac176442bdc027a149ae8eee632658c498d3209a297534f8ce6d0d1aef9f4c73cc5839798c5caeb4afcc1eac19ea9fad2ac13087cd8051e0f1681f969e18ddb0e16dd8d068ea3f42697171c53605112c2442b806b1a7834a541ab5762efb399dd3d3e0c8efed821e91263a",
+                    "signedUrlExpirationTime": 1702678989245
                 }
             },
             "backendUpgradeVersion": 23,
@@ -130,6 +130,26 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "37cacb66-185f-4e17-a1a5-c4415a51eed8": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "1d1df646-5be1-4219-a892-7e3ee5ceb307": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -164,6 +184,12 @@
                     },
                     {
                         "id": "965a4286-a5c8-491c-93a8-e65b35e1a680"
+                    },
+                    {
+                        "id": "37cacb66-185f-4e17-a1a5-c4415a51eed8"
+                    },
+                    {
+                        "id": "1d1df646-5be1-4219-a892-7e3ee5ceb307"
                     }
                 ]
             },
@@ -294,11 +320,1092 @@
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
-            "localDataSources": [],
+            "localDataSources": [
+                {
+                    "id": "7044ae0b-63df-4267-99f3-fa06ec4faaca",
+                    "dataSource": {
+                        "id": "949dbdf4-d442-450c-b0ab-1104b1cb8af5",
+                        "name": "Saved Dates + Money",
+                        "owner": "64f9e50766b9fc6a918c9b9e",
+                        "collections": [
+                            {
+                                "id": "75a1fea6-30bb-4371-a01b-7457e3a8cf4c",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                        "name": "column1",
+                                        "label": "Date",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                        "label": "Amount",
+                                        "name": "column",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "0609a811-6651-45b6-a777-9d903ceb9431",
+                                            "node": {
+                                                "id": "03356c0a-a0ec-4ebb-9c68-70450a791707",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "January 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1cd70308-406c-4906-b9f8-bd6800823ba6",
+                                            "node": {
+                                                "id": "e9a52122-24e6-442f-9def-96c3e1888ae0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "February 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ed05ceda-dae5-4d1c-8b32-93279042c83a",
+                                            "node": {
+                                                "id": "02722271-ce67-466e-9007-71f82f78bfa1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "March 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ba9139c8-355a-45b5-8e9c-14a3bf6a2345",
+                                            "node": {
+                                                "id": "998d16ac-c83f-4104-9f16-0ea05e61b68e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "April 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "efc615a9-b48d-4f3d-b467-5bbfab373ba2",
+                                            "node": {
+                                                "id": "c122f8e4-9bb0-4a7a-a845-2312a6135951",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "May 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "5992dd20-21d8-41fa-ae73-0a1a92b5a729",
+                                            "node": {
+                                                "id": "1a5c73fe-f30b-4411-9222-ac9273625bc6",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "June 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "0deea742-1076-4fe4-bb26-f7a37805c4cc",
+                                            "node": {
+                                                "id": "bdb6a7ef-c904-4d37-916a-f38162009955",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "July 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9607bdde-2568-4295-9fd7-f4e37ef75c71",
+                                            "node": {
+                                                "id": "8e3aa04a-5ad9-4fc5-aefa-ee68c108f79d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "August 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "5576a2a0-c4ef-40ab-ad8d-552d16244376",
+                                            "node": {
+                                                "id": "ddee5862-4a84-4dff-a72c-dc04f8b39dfc",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "September 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9ab925f2-5a39-406a-b14b-cee7675ee0f1",
+                                            "node": {
+                                                "id": "d7302ed0-e84d-42b1-8cdc-2708d7a7b80f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "October 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f4730595-b33e-4f3a-9646-be1c258ecd42",
+                                            "node": {
+                                                "id": "69978616-aaaf-4bc9-ab08-eef4a6c1870b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "November 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "446391db-a628-470a-86ed-01d6b4f2df8b",
+                                            "node": {
+                                                "id": "dd2759ff-8c4c-464e-8f31-11cc509fc7ac",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "December 2023"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "08817bee-a005-43db-a53f-5a475b7a7725",
+                                            "node": {
+                                                "id": "9ca6eb6a-f063-4a37-be0f-23a052055ea3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "January 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f1bd719d-fa7b-4150-a118-fc394547f825",
+                                            "node": {
+                                                "id": "53033e49-ccbb-46af-98d9-da97d70cae37",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "February 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "fc31c2ab-fc24-4c22-a87f-a620cec204da",
+                                            "node": {
+                                                "id": "d59ab7b1-9bc9-44e0-9f59-4d0ac649406a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "March 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1fe16258-0c62-4a44-a47c-4bcc803d9a59",
+                                            "node": {
+                                                "id": "3b9a8558-cd64-43e1-8667-49a3fd916ad8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "April 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "33079b3c-0f98-453f-a78d-fb550ebeb28f",
+                                            "node": {
+                                                "id": "352d6347-2084-47d9-bc0c-aba092e85717",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "May 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "36f60f1a-877b-4956-bafd-80ced18dc7f9",
+                                            "node": {
+                                                "id": "bb80e49f-7e68-4fa7-935c-769dfaf4036e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "June 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "25162492-cb22-4e03-baed-170404e07305",
+                                            "node": {
+                                                "id": "2a1217c1-a08d-42a2-b382-a25232880cc1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "July 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ae223f42-5aba-4abb-b789-aa05e8ac30be",
+                                            "node": {
+                                                "id": "c97edf60-464b-4676-b7b1-7f72c6ced610",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "August 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "117825b2-9d9d-4317-abdd-1f2d4494ebe0",
+                                            "node": {
+                                                "id": "8be71cc3-e88c-4b7a-8f7d-67611332884a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "September 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6c3b2e17-e435-4ccb-9849-7f986e92e4e3",
+                                            "node": {
+                                                "id": "b048ad5b-9606-480a-b52d-81a4c3e7233e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "October 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "657f7506-1612-4620-ae56-41a39dfcf9ca",
+                                            "node": {
+                                                "id": "9b58adb3-90ca-4d66-b52d-3080e5853cda",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "November 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1835e162-d681-4caa-8390-34e7e51b4d77",
+                                            "node": {
+                                                "id": "56008396-eb24-451b-b52c-1832bf04be1d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "December 2024"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "72922762-fff0-4d61-a5a1-15f142263bcf",
+                                            "node": {
+                                                "id": "3e50bc35-6156-40cd-8601-cba345fd8dc5",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "January 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4909f03b-907c-4eed-8071-285bc22c41a9",
+                                            "node": {
+                                                "id": "3c807ecb-fc1d-4d16-b664-d18b4646e006",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "February 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "507f3cc0-4cdf-4f88-a2b4-8d978f81afd2",
+                                            "node": {
+                                                "id": "051e8959-1a38-4349-950c-9b98e0cea3b7",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "March 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "d7da8741-2550-410a-b117-7faec233f918",
+                                            "node": {
+                                                "id": "9d6d144c-906d-4c1f-a884-6a00dfd0dcee",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "April 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "5eb46e6b-af81-47d7-8540-2e33c1d47454",
+                                            "node": {
+                                                "id": "397f7e8c-bc9d-470b-8b01-8136cc6da82d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "May 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "8a68a495-724f-4928-9e63-f722a23f3063",
+                                            "node": {
+                                                "id": "5e291d39-00b2-4861-8f59-861a63b7b5fc",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "June 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ca9e60bd-3973-4155-a07e-afa3a067d211",
+                                            "node": {
+                                                "id": "2e760158-fd9e-4584-ac18-8f4e6a0c1f6f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "July 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "df28ff69-f327-4f1f-9d16-036378f0def6",
+                                            "node": {
+                                                "id": "892eb5db-1842-4781-9aa1-159615ff1a50",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "August 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "904f4505-07e8-477f-874b-7a648dca41cb",
+                                            "node": {
+                                                "id": "8a9d5bc0-98f8-475c-8bec-25f5ba1cc73c",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "September 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "72272df9-29c5-46cd-8a9f-6a881cac18d7",
+                                            "node": {
+                                                "id": "3bc97bc9-4be3-4a53-aae8-bf96edb68afe",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "October 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ea168033-8649-4c39-a16c-efc0a130d4da",
+                                            "node": {
+                                                "id": "5aba5610-4754-4dff-82a0-e0f567ed5dfd",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "November 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f8f188ab-7272-44c2-b432-7fd325c35c35",
+                                            "node": {
+                                                "id": "4eb85bee-9508-4eb0-9f3c-b9e5f2122e90",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "ade177db-f8ed-4727-b87b-8f605cb3bb62",
+                                                        "value": "December 2025"
+                                                    },
+                                                    {
+                                                        "fieldId": "109e65a3-faff-4bd3-acc4-a1cb0f1cbf71",
+                                                        "value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "aadf1c17-0ae4-4aed-8ec0-ebbff933f982",
+                            "name": "Saved Dates + Money",
+                            "owner": "64f9e50766b9fc6a918c9b9e",
+                            "type": "LOCAL"
+                        }
+                    }
+                },
+                {
+                    "id": "94115c48-f1a0-48e8-acd6-81234075d8df",
+                    "dataSource": {
+                        "id": "3d0eecec-d26e-4eda-b183-b8a8d59c941f",
+                        "name": "Date List",
+                        "owner": "64f9e50766b9fc6a918c9b9e",
+                        "collections": [
+                            {
+                                "id": "7c13f26b-7005-430f-ac16-002f8f98a872",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                        "name": "column1",
+                                        "label": "Column 1",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "6c3c6933-ce8c-4041-bbad-d3cac63179cc",
+                                            "node": {
+                                                "id": "a587621a-49f7-4b48-b47e-bbb99a90be67",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "January 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "2dd260f5-66fa-432c-af14-d99b797bdc39",
+                                            "node": {
+                                                "id": "1cf8d309-912c-46ad-a7f1-0c3ecf030c8a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "February 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9336143d-cf3d-4752-a903-792d9573fb85",
+                                            "node": {
+                                                "id": "7f47d236-2b4b-422f-93df-b45a566b68d8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "March 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "12d2917f-fabd-4de3-80d3-56ddf8ec6565",
+                                            "node": {
+                                                "id": "7f1bda66-fc83-4537-8fe6-f4bba587e9de",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "April 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9f43a65c-0e6b-4c3f-bab9-17a6aceb4b32",
+                                            "node": {
+                                                "id": "3c9a7c37-5425-46bd-b408-e82bf4af9bc6",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "May 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a01d5f58-2d38-4b3b-9197-648e0da3eba1",
+                                            "node": {
+                                                "id": "9a283847-9cd7-4a03-8be5-0f5b17561801",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "June 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9b9134e8-3fb3-4154-9af7-3c7d06c9946f",
+                                            "node": {
+                                                "id": "e2385c12-abaf-47a7-9604-bd0306974f23",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "July 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9cbf496c-3723-4171-89ee-703ee09df3db",
+                                            "node": {
+                                                "id": "1fe5fa4e-46f8-452b-8ef2-c1bd00770bf7",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "August 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "5e8eb3e1-61d8-4efd-af45-edf32519af3e",
+                                            "node": {
+                                                "id": "b47f0ef2-c223-4310-a603-dd57bd1b04f9",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "September 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "613e98f4-1e4f-43a8-bccf-69f7ff531f3d",
+                                            "node": {
+                                                "id": "78a581cd-1e85-4fe9-b1dc-6b337b50f2a5",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "October 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "78ecad0d-1dac-4e66-a572-95e05d84e5ae",
+                                            "node": {
+                                                "id": "db5ab446-a31e-4d4f-9bf0-502e1e4cad44",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "November 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6690c54f-7beb-48c4-917f-855b5d5f97cf",
+                                            "node": {
+                                                "id": "1d43ec5d-6c9b-4217-bc89-4f95c5158a12",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "December 2023"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "3d997fe4-9a9a-488f-8f87-79226e48712d",
+                                            "node": {
+                                                "id": "5aaf8cd7-975e-4695-94ee-58353dd6bda2",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "January 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "75c85991-f541-4404-8448-3f32b8d18801",
+                                            "node": {
+                                                "id": "74ed69cf-8c8d-478e-8acb-b5b791534842",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "February 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f1fc42ab-7eba-4a4a-b29e-b55d4a03d346",
+                                            "node": {
+                                                "id": "dd52667a-65c0-45e6-9f38-56d6875616fb",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "March 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "60e566b6-e8c0-4c62-9bd8-2695b251d589",
+                                            "node": {
+                                                "id": "1c7f5d45-e1d0-4068-ba2b-c6108da38a43",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "April 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "e2cec696-75b7-448b-a240-ed83b8e3a22d",
+                                            "node": {
+                                                "id": "36ff0131-3099-40ef-9146-056bb5c71f8b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "May 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6a38ed6e-7317-4b73-b76f-59054e6aba24",
+                                            "node": {
+                                                "id": "9e96b63d-222e-4110-8a38-5a400d6207d7",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "June 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9873d4d4-afb9-4a7e-a8c0-b2378fae0bbf",
+                                            "node": {
+                                                "id": "4da54582-b7a3-42dc-8080-74cb590e6c5f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "July 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "888c506f-8d0f-4143-bcc7-ecd822ff929c",
+                                            "node": {
+                                                "id": "2dd2b04b-d1ee-4207-85cc-bbfab86cefdd",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "August 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "28cf958c-00b1-4a28-8e7b-b3e5bbbe9385",
+                                            "node": {
+                                                "id": "1c6a7fcf-aaa0-4f95-a92a-40c4482378e3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "September 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6bae393d-4b73-4574-a52f-f3e727bf7e11",
+                                            "node": {
+                                                "id": "318dc7e7-3f41-407c-b3d5-ef4131b604c4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "October 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "31c67ac2-723d-4970-a7d0-7776c8712663",
+                                            "node": {
+                                                "id": "4376738e-e06e-496d-86cf-82b0ff5f48a7",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "November 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "d842975d-5538-45f3-94a9-7e86c046c399",
+                                            "node": {
+                                                "id": "cdd8a84b-ee59-40dd-b6a9-4db4b51e441c",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "December 2024"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9da900e2-d5f1-4470-8523-a989a1756b8f",
+                                            "node": {
+                                                "id": "b34111e1-ef72-4524-bc3e-c20054631028",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "January 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ad86ee4e-8a35-425a-8518-e83a3ac0dae5",
+                                            "node": {
+                                                "id": "5a9d3383-66a4-4b21-920a-e560cd933af1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "February 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "88572b32-216a-44c2-b61e-c5d6caa4f19d",
+                                            "node": {
+                                                "id": "ac9c59b8-e260-4743-8472-f04d74d6a135",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "March 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1d1cc96c-1492-4231-b5ac-ace5337a6b3f",
+                                            "node": {
+                                                "id": "f3ee13b2-08a7-4dc5-9f6a-d911cb2b2e21",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "April 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "7bce17e6-97f9-4fbb-a5b3-ca83838502f8",
+                                            "node": {
+                                                "id": "3973d86a-efc8-446a-bb09-a18f85d4aa64",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "May 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a034ce5e-001e-42c8-b8fe-24a76f26af6b",
+                                            "node": {
+                                                "id": "660058e9-f892-4c02-a3e7-73ab07417958",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "June 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "fd993105-3d47-4c0b-8200-eac7c755b28f",
+                                            "node": {
+                                                "id": "8d4e83e6-3b06-4b76-934d-188811f79a7c",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "July 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1eb573ee-a422-4378-aeb0-52bcaad85f42",
+                                            "node": {
+                                                "id": "31fdb08a-4bcd-446a-beac-72e634fe49d4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "August 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ac197eb4-6a9f-4399-8c45-3044dbc799e5",
+                                            "node": {
+                                                "id": "e563ae29-d688-4042-a6f1-e94bdc2d8ab1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "September 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "e51ac204-f550-456b-8b9c-150d3262da9c",
+                                            "node": {
+                                                "id": "c848f936-846e-4153-ae91-ed2d41e953bb",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "October 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1b272c17-28af-402e-94a4-45b6a3ffad63",
+                                            "node": {
+                                                "id": "e54f93e0-3931-4394-ad61-2ceae263728c",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "November 2025"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "35d18b1e-2e49-4996-abc0-1a8f9c8fde9a",
+                                            "node": {
+                                                "id": "feaa9fa1-d3d1-4769-ac70-f6c7b466c78d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "486b0c4d-1146-454d-bf0e-a1cf395640fd",
+                                                        "value": "December 2025"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "4263a851-5897-4914-a98a-d4b34d87b3f3",
+                            "name": "Date List",
+                            "owner": "64f9e50766b9fc6a918c9b9e",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "4",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -341,6 +1448,21 @@
                     "scope": "APP",
                     "name": "disposable_income",
                     "screenId": "c1a360d9-a32b-4bff-ac24-c357a1202275"
+                },
+                "21c0249a-5a59-4015-ab03-3fa21f590f62": {
+                    "scope": "APP",
+                    "name": "row_val",
+                    "screenId": "37cacb66-185f-4e17-a1a5-c4415a51eed8"
+                },
+                "fe1e3c81-d564-476c-a3ad-9bd980b7c46d": {
+                    "scope": "APP",
+                    "name": "Year Text ",
+                    "screenId": "37cacb66-185f-4e17-a1a5-c4415a51eed8"
+                },
+                "075ee2da-266e-4fa4-bd6c-a01e0def9738": {
+                    "scope": "APP",
+                    "name": "Month Text ",
+                    "screenId": "37cacb66-185f-4e17-a1a5-c4415a51eed8"
                 }
             },
             "defaultDesignerDevice": "PHONE",
