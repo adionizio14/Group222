@@ -1,4 +1,5 @@
 {
+    "id": "37cacb66-185f-4e17-a1a5-c4415a51eed8",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -423,7 +424,8 @@
                 "Disabled": false,
                 "ParentId": "37cacb66-185f-4e17-a1a5-c4415a51eed8",
                 "position": "absolute",
-                "edgeOffsets": 588
+                "edgeOffsets": 588,
+                "Font": "Oswald"
             },
             "children": [],
             "id": "bfcb12a1-366d-4acd-ab73-68fe635b3f1d",
@@ -496,10 +498,10 @@
                 "Height": 53,
                 "Width": 311,
                 "Visible": true,
-                "X": 32.986114501953125,
-                "Y": 473.9930725097656,
-                "RelativeX": 32.986114501953125,
-                "RelativeY": 473.9930725097656,
+                "X": 32,
+                "Y": 473,
+                "RelativeX": 32,
+                "RelativeY": 473,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -639,7 +641,6 @@
             "name": "Image9"
         }
     ],
-    "id": "37cacb66-185f-4e17-a1a5-c4415a51eed8",
     "thunkableVersion": 435,
     "name": "Input Saved Money Screen"
 }
