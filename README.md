@@ -1,4 +1,4 @@
-##Finding our app on Google Play
+## Finding our app on Google Play
 
 We are currently in the internal test phase so the app is only available on the Google Play store
 to users in our test list.
@@ -9,6 +9,8 @@ to users in our test list.
 4. This will take you to the google play store on your device, make sure you are signed into your uri account on Google play.
 5. Download the app
 6. Fill out this survey, https://forms.gle/8VqkFY7CDsz7M6fB6
+
+
 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CONDUCT.md)
