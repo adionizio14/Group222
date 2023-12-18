@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "bills": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]{1,2})?$" },
+      "creditCard": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]{1,2})?$" },
+      "groceries": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]{1,2})?$" },
+      "other": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]{1,2})?$" },
+      "rent": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]{1,2})?$" }
+    },
+    "required": ["bills", "creditCard", "groceries", "rent"],
+    "additionalProperties": false
+  }
+}
