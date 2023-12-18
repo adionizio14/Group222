@@ -97,11 +97,11 @@ Each member will have a short time to talk about what they have been working on,
 
 The following group members have read and agreed to follow all rules of this document.
 
-![Andrew Dionizio](src/dionizio_signiture.png)
-![Jason_Wu](src/jason_signature.png)
-![Joseph Yanez](src/joseph_sig.png)
-![Michael Gilkeson](src/MichaelGilkesonsignature.png)
-![Brandon Charette](src/Brandon_Signature.png)
+![Andrew Dionizio](dep/dionizio_signiture.png)
+![Jason_Wu](dep/jason_signature.png)
+![Joseph Yanez](dep/joseph_sig.png)
+![Michael Gilkeson](dep/MichaelGilkesonsignature.png)
+![Brandon Charette](dep/Brandon_Signature.png)
 
 ## Attribution
 
